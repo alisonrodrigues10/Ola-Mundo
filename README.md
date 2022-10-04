@@ -3,4 +3,4 @@
 
 repositório criado no curso em vídeo!
 
-essa linha modifiquei durante a aula.
+essa linha modifiquei durante a aula no sit do github
